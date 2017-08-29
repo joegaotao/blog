@@ -3,10 +3,8 @@ title: 博客除草
 author: 高涛
 date: '2017-06-11'
 slug: 'blog-start'
-categories:
-  - 生活
-tags:
-  - 博客
+categories: ["生活"]
+tags: ["博客"]
 ---
 
 话说三年后又突然给想起博客除草，还是因为这两天不小心溜进了谢老大博客找乐子时，想起他很久就推过的blogdown包，看着如此简单，于是乎啥也不改的就准备给博客除除草了。

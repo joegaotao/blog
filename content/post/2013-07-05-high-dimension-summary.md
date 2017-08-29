@@ -2,6 +2,7 @@
 title: 高维变量选择问题的一点总结
 author: "高涛"
 date: 2013-07-05
+slug: 'high-dim-summary'
 categories: ["学习"]
 tags: ["高维统计", "变量选择", "线性模型"]
 ---
